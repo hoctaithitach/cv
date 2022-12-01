@@ -1,0 +1,22 @@
+body {
+    background-color: #DEF5E5;
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #8EC3B0;
+    border-width: 8px;
+    width: 10%;
+}
+h1 {
+    color: #CE7777;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h2 {
+    color: #CE7777;
+}
+h3 {
+    color: #CE7777;
+    font-style: oblique;
+}
